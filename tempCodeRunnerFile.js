@@ -1,1 +1,1 @@
-const gameName = new String('supriyam');
+const obj1 = {1: "sup", 2: "b"}
